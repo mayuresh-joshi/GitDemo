@@ -1,1 +1,0 @@
-To test git tracks events like delete, rename file etc
