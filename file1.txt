@@ -4,7 +4,9 @@ Change for login feature
 
 Bug removed
 
-Changes in Master - enhancement by master
+
+Changes in Master - enhancement by both
+
 Changes in bug2
 
 
