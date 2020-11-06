@@ -12,3 +12,5 @@ Changes in bug2
 
 Change  to verify push to origin master from local master
 
+Change in remote master (Github)
+
