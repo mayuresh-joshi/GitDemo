@@ -3,3 +3,6 @@ Hello Git World!
 Change for login feature
 
 Bug removed
+
+bug2 removed
+sdsdsds
