@@ -1,0 +1,35 @@
+[33mcommit b9d5112eec506bc0af2df35b77475727e9d66f7f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mayuresh <mayureshjoshee3@gmail.com>
+Date:   Thu Nov 5 18:07:49 2020 +0530
+
+    nothing
+
+[33mcommit c34dc284f37c663d4329cf4841344e699f8b34af[m
+Author: Mayuresh <mayureshjoshee3@gmail.com>
+Date:   Thu Nov 5 17:22:52 2020 +0530
+
+    dsd
+
+[33mcommit ef789ebc5680853423c41bc6f5b75ea40ae38822[m[33m ([m[1;33mtag: v1.1[m[33m)[m
+Author: Mayuresh <mayureshjoshee3@gmail.com>
+Date:   Thu Nov 5 17:08:56 2020 +0530
+
+    git ignore done
+
+[33mcommit e56c170e86a7484ee3c0e51604c6ba85e33554b8[m
+Author: Mayuresh <mayureshjoshee3@gmail.com>
+Date:   Thu Nov 5 16:18:23 2020 +0530
+
+    WI1: file2 created
+
+[33mcommit c9903f2665d26da97b4a90ecf2be879caabc6b7c[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: Mayuresh <mayureshjoshee3@gmail.com>
+Date:   Thu Nov 5 16:15:37 2020 +0530
+
+    WI1:file1 updated for login featue
+
+[33mcommit 9e0829a825a87ec8cdee9bdd5625a6e407318478[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+Author: Mayuresh <mayureshjoshee3@gmail.com>
+Date:   Thu Nov 5 16:11:08 2020 +0530
+
+    WI1:file1 created, hello GIT world
