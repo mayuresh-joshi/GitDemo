@@ -10,3 +10,5 @@ Changes in Master - enhancement by both
 Changes in bug2
 
 
+Change  to verify push to origin master from local master
+
